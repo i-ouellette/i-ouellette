@@ -11,6 +11,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ouellette&layout=compact&hide=TSQL&theme=blue_navy"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=i-ouellette&count_private=true&show_icons=true&&theme=blue_navy&include_all_commits=true" width="400"></p> 
 
-<h3 align="center"> LANGUAGES:</h3>
+<h3 align="center"> Languages I know:</h3>
+
 
 
