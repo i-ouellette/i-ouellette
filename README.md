@@ -11,7 +11,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ouellette&layout=compact&hide=TSQL&theme=blue_navy"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=i-ouellette&count_private=true&show_icons=true&&theme=blue_navy&include_all_commits=true" width="400"></p> 
 
-### 🤖 &nbsp; Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
