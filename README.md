@@ -11,47 +11,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ouellette&layout=compact&hide=TSQL&theme=blue_navy"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=i-ouellette&count_private=true&show_icons=true&&theme=blue_navy&include_all_commits=true" width="400"></p> 
 
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.3"></script>
-	<script type="text/javascript" src="_extensions.js"></script>
-	<style>
-	<!-- 
-	.droppin_icon {
-		height: 30px; 
-		width: 25px; 
-		background: url('http://www.garzilla.net/vemaps/images/pin.gif') no-repeat 0 0; 
-		cursor: pointer; 
-	}
-	.droppin_shadow {
-		height: 30px; 
-		width: 42px;
-		background: url('http://www.garzilla.net/vemaps/images/pinShadow.gif') no-repeat 0 0; 
-		-moz-user-select: none;
-		-webkit-user-select: none;
-		filter: Alpha(opacity=50); 
-		-moz-opacity: 0.60; 
-		opacity: 0.60;
-	}
-	--> 
-	</style>
-</head>
-<body onload="init();">
 
-	<script type="text/javascript">
-	<!-- 
-		var map;
-		function init(){
-			map = new VEMap('container');
-			map.LoadMap();
-		}
-	//--> 
-	</script>
-	<button onclick="map.AddPushpin( map.GetCenter() );">Regular pin</button>
-	<button onclick="map.DropPushpin( map.GetCenter() );">Dropped pin</button>
-	<button onclick="map.DropPushpin( map.GetCenter(), 11, 0 );">Dropped pin (with a offset on the shadow)</button>
-	
-</body>
-</html>
