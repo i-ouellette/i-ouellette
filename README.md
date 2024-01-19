@@ -21,5 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"><br></p>
+
 ---
+
 Credit: <a href="https://github.com/Anmol-Baranwal"><b>Anmol Baranwal</b></a>
