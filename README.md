@@ -6,4 +6,4 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bi-ouellette%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ouellette&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=i-ouellette&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=i-ouellette&theme=chartreuse-dark"></p>
+
