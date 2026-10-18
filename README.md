@@ -6,8 +6,11 @@
 </picture>Hey, I'm Isaac!</h1>
 
 <p align="center" width="150px">I am a fourth year Computer Science Student, Studying at <a href="https://www.queensu.ca/"><b>Queen's University,</b></a> With a Minor in <a href="https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/math"><b>Mathematics.</b></a>✖️<br> Have fun Scrolling!</p>
-<p align="center"><b>Profile Visits:</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bi-ouellette%7D/count.svg" alt="visitor badge"/></p>
+
+ 🔭 Currently
+- 🏨 Built **[Hotel Spot](https://github.com/i-ouellette/hotel-agent)**: an AI voice agent that phones the 3 cheapest hotels in a city in parallel and emails back the best available room (TechTO hackathon)
+- 🏈 Project Manager at the Queen's Sports Analytics Organization
+
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=i-ouellette&count_private=true&show_icons=true&&theme=blue_navy&include_all_commits=true" width="400"></p> 
 
 <h3 align="center"> Languages I know:</h3>
