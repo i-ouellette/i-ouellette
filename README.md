@@ -7,7 +7,7 @@
 
 <p align="center" width="150px">I am a fourth year Computer Science Student, Studying at <a href="https://www.queensu.ca/"><b>Queen's University,</b></a> With a Minor in <a href="https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/math"><b>Mathematics.</b></a>✖️<br> I love hiking, climbing, and travelling. Have fun Scrolling!</p>
 
- 🔭 Currently
+### 🔭 Currently
 - 🏨 Built **[Hotel Spot](https://github.com/i-ouellette/hotel-agent)**: an AI voice agent that phones the 3 cheapest hotels in a city in parallel and emails back the best available room (TechTO hackathon)
 - 🏈 Project Manager at the Queen's Sports Analytics Organization
 
